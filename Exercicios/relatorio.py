@@ -1,7 +1,7 @@
 print('Oi, hoje o Python vai contar uma fábula para você...') #avisa que vai contar uma história
 print('')# cria um linha sem caracteres para organizar o código
 
-#Nessa parte do código o computador vai fazer alguma perguntas para o usuário
+#Nessa parte do código o computador vai fazer algumas perguntas para o usuário
 #as respostas dessas perguntas serão usadas para completar a história.
 
 name = str(input('Qual o sua sugestão de nome para o personagem principal ? '))
